@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Vitalii Babych"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Віджет повітряної тривоги для Черкас",
+        "Icon": "state-warning",
+        "Id": "org.plasma.airalert",
+        "Name": "Air Alert Widget",
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "declarative",
+    "X-Plasma-API-Minimum-Version": "6",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
