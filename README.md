@@ -9,7 +9,7 @@
 ---
 ## Встановлення
 ```bash
-git clone https://github.com/YOUR_USERNAME/plasma-ukraine-air-alert
+git clone https://github.com/vi7878/plasma-ukraine-air-alert
 cd plasma-ukraine-air-alert
 kpackagetool6 --install .
 ```
